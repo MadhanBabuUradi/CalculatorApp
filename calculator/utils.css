@@ -1,0 +1,29 @@
+.text-center {
+    text-align: center;
+  }
+  
+  
+  
+  .mx-auto {
+    margin: auto;
+  }
+  
+  .m-w-35 {
+    max-width: 35vw
+  }
+  
+  .flex {
+    display: flex;
+  }
+  
+  .flex-col {
+    flex-direction: column;
+  }
+  
+  .items-center {
+    align-items: center;
+  }
+  
+  .row {
+    margin: 5px 0;
+  }
